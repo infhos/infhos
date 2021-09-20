@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos
 - 👀 I’m interested in eletronic learning, sci-fi, volleyball, strategy games, beer, scotch wiskie, and so much
-- 🌱 I’m currently learning Python3, Django
+- 🌱 I’m currently learning Python3, Django, Shell script
 - 📫 I’m using PHP, Zend Framework, Javascript, trying to upgrade to Laminas Project atm
 - 💞️ I’m also IT Support for Linux, Windows... Maybe, maybe I'm a DEVOP       
 
